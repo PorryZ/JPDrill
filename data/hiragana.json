@@ -1,302 +1,302 @@
 [
     {
-        "question": "ア",
+        "question": "あ",
         "answer": "a"
     },
     {
-        "question": "イ",
+        "question": "い",
         "answer": "i"
     },
     {
-        "question": "ウ",
+        "question": "う",
         "answer": "u"
     },
     {
-        "question": "エ",
+        "question": "え",
         "answer": "e"
     },
     {
-        "question": "オ",
+        "question": "お",
         "answer": "o"
     },
     {
-        "question": "カ",
+        "question": "か",
         "answer": "ka"
     },
     {
-        "question": "キ",
+        "question": "き",
         "answer": "ki"
     },
     {
-        "question": "ク",
+        "question": "く",
         "answer": "ku"
     },
     {
-        "question": "ケ",
+        "question": "け",
         "answer": "ke"
     },
     {
-        "question": "コ",
+        "question": "こ",
         "answer": "ko"
     },
     {
-        "question": "サ",
+        "question": "さ",
         "answer": "sa"
     },
     {
-        "question": "シ",
+        "question": "し",
         "answer": "shi"
     },
     {
-        "question": "ス",
+        "question": "す",
         "answer": "su"
     },
     {
-        "question": "セ",
+        "question": "せ",
         "answer": "se"
     },
     {
-        "question": "ソ",
+        "question": "そ",
         "answer": "so"
     },
     {
-        "question": "タ",
+        "question": "た",
         "answer": "ta"
     },
     {
-        "question": "チ",
+        "question": "ち",
         "answer": "chi"
     },
     {
-        "question": "ツ",
+        "question": "つ",
         "answer": "tsu"
     },
     {
-        "question": "テ",
+        "question": "て",
         "answer": "te"
     },
     {
-        "question": "ト",
+        "question": "と",
         "answer": "to"
     },
     {
-        "question": "ナ",
+        "question": "な",
         "answer": "na"
     },
     {
-        "question": "ニ",
+        "question": "に",
         "answer": "ni"
     },
     {
-        "question": "ヌ",
+        "question": "ぬ",
         "answer": "nu"
     },
     {
-        "question": "ネ",
+        "question": "ね",
         "answer": "ne"
     },
     {
-        "question": "ノ",
+        "question": "の",
         "answer": "no"
     },
     {
-        "question": "ハ",
+        "question": "は",
         "answer": "ha"
     },
     {
-        "question": "ヒ",
+        "question": "ひ",
         "answer": "hi"
     },
     {
-        "question": "フ",
+        "question": "ふ",
         "answer": "fu"
     },
     {
-        "question": "ヘ",
+        "question": "へ",
         "answer": "he"
     },
     {
-        "question": "ホ",
+        "question": "ほ",
         "answer": "ho"
     },
     {
-        "question": "マ",
+        "question": "ま",
         "answer": "ma"
     },
     {
-        "question": "ミ",
+        "question": "み",
         "answer": "mi"
     },
     {
-        "question": "ム",
+        "question": "む",
         "answer": "mu"
     },
     {
-        "question": "メ",
+        "question": "め",
         "answer": "me"
     },
     {
-        "question": "モ",
+        "question": "も",
         "answer": "mo"
     },
     {
-        "question": "ヤ",
+        "question": "や",
         "answer": "ya"
     },
     {
-        "question": "ユ",
+        "question": "ゆ",
         "answer": "yu"
     },
     {
-        "question": "ヨ",
+        "question": "よ",
         "answer": "yo"
     },
     {
-        "question": "ラ",
+        "question": "ら",
         "answer": "ra"
     },
     {
-        "question": "リ",
+        "question": "り",
         "answer": "ri"
     },
     {
-        "question": "ル",
+        "question": "る",
         "answer": "ru"
     },
     {
-        "question": "レ",
+        "question": "れ",
         "answer": "re"
     },
     {
-        "question": "ロ",
+        "question": "ろ",
         "answer": "ro"
     },
     {
-        "question": "ワ",
+        "question": "わ",
         "answer": "wa"
     },
     {
-        "question": "ヲ",
+        "question": "を",
         "answer": "wo"
     },
     {
-        "question": "ン",
+        "question": "ん",
         "answer": "n"
     },
     {
-        "question": "ガ",
+        "question": "が",
         "answer": "ga"
     },
     {
-        "question": "ギ",
+        "question": "ぎ",
         "answer": "gi"
     },
     {
-        "question": "グ",
+        "question": "ぐ",
         "answer": "gu"
     },
     {
-        "question": "ゲ",
+        "question": "げ",
         "answer": "ge"
     },
     {
-        "question": "ゴ",
+        "question": "ご",
         "answer": "go"
     },
     {
-        "question": "ザ",
+        "question": "ざ",
         "answer": "za"
     },
     {
-        "question": "ジ",
+        "question": "じ",
         "answer": "ji"
     },
     {
-        "question": "ズ",
+        "question": "ず",
         "answer": "zu"
     },
     {
-        "question": "ゼ",
+        "question": "ぜ",
         "answer": "ze"
     },
     {
-        "question": "ゾ",
+        "question": "ぞ",
         "answer": "zo"
     },
     {
-        "question": "ダ",
+        "question": "だ",
         "answer": "da"
     },
     {
-        "question": "ヂ",
+        "question": "ぢ",
         "answer": "ji"
     },
     {
-        "question": "ヅ",
+        "question": "づ",
         "answer": "zu"
     },
     {
-        "question": "デ",
+        "question": "で",
         "answer": "de"
     },
     {
-        "question": "ド",
+        "question": "ど",
         "answer": "do"
     },
     {
-        "question": "バ",
+        "question": "ば",
         "answer": "ba"
     },
     {
-        "question": "ビ",
+        "question": "び",
         "answer": "bi"
     },
     {
-        "question": "ブ",
+        "question": "ぶ",
         "answer": "bu"
     },
     {
-        "question": "ベ",
+        "question": "べ",
         "answer": "be"
     },
     {
-        "question": "ボ",
+        "question": "ぼ",
         "answer": "bo"
     },
     {
-        "question": "パ",
+        "question": "ぱ",
         "answer": "pa"
     },
     {
-        "question": "ピ",
+        "question": "ぴ",
         "answer": "pi"
     },
     {
-        "question": "プ",
+        "question": "ぷ",
         "answer": "pu"
     },
     {
-        "question": "ペ",
+        "question": "ぺ",
         "answer": "pe"
     },
     {
-        "question": "ポ",
+        "question": "ぽ",
         "answer": "po"
     },
     {
-        "question": "ッ",
+        "question": "っ",
         "answer": "small tsu"
     },
     {
-        "question": "ャ",
+        "question": "ゃ",
         "answer": "small ya"
     },
     {
-        "question": "ュ",
+        "question": "ゅ",
         "answer": "small yu"
     },
     {
-        "question": "ョ",
+        "question": "ょ",
         "answer": "small yo"
     }
 ]
